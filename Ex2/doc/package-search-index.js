@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"ex2","l":"animals"},{"m":"ex2","l":"diet"},{"m":"ex2","l":"food"},{"m":"ex2","l":"graphics"},{"m":"ex2","l":"mobility"},{"m":"ex2","l":"plants"}];updateSearchResults();
